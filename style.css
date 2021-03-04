@@ -1,0 +1,28 @@
+h1{
+    color:blue
+}
+
+li{
+    font-weight: bold;
+    font-size: larger;
+     font-family: serif;
+}
+
+body{
+    background-color: pink;
+}
+
+img {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 25px
+  
+  }
+
+  mark{
+      background-color: rgb(46, 196, 216);
+      font-family: sans-serif;
+      color :black
+    
+  }
+
